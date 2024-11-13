@@ -1,0 +1,381 @@
+﻿IsMeta,URL,Key,Value
+true,chrome-extension://enegjkbbakeegngfapepobipndnebkdk,,"meta data, value bytes is [8 196 168 219 159 147 166 225 23 16 52]"
+true,chrome-extension://igpdmclhhlcpoindmhkhillbfhdgoegm,,"meta data, value bytes is [8 191 131 244 245 151 167 225 23 16 227 16]"
+true,chrome://startpage,,"meta data, value bytes is [8 173 156 208 216 151 167 225 23 16 155 1]"
+true,http://u-edu.kz,,"meta data, value bytes is [8 154 131 202 162 162 231 221 23 16 203 1]"
+true,https://1xbet.kz,,"meta data, value bytes is [8 207 137 135 204 190 173 224 23 16 126]"
+true,https://7698.play.gamezop.com,,"meta data, value bytes is [8 189 220 168 236 187 225 221 23 16 151 190 2]"
+true,https://ads.pubmatic.com/^0https://gamezop.com,,"meta data, value bytes is [8 169 243 147 226 230 167 221 23 16 95]"
+true,https://aliexpress.ru,,"meta data, value bytes is [8 254 180 187 143 129 176 224 23 16 233 130 22]"
+true,https://app-212890.games.s3.yandex.net/^0https://yandex.kz,,"meta data, value bytes is [8 204 176 217 178 175 238 221 23 16 247 3]"
+true,https://apps.shopify.com,,"meta data, value bytes is [8 169 149 144 190 230 175 221 23 16 113]"
+true,https://blocked.botfaqtor.ru/^0https://upupbusiness.online,,"meta data, value bytes is [8 161 186 192 159 148 193 221 23 16 132 3]"
+true,https://checks.botfaqtor.ru/^0https://upupbusiness.online,,"meta data, value bytes is [8 131 154 251 166 143 178 221 23 16 113]"
+true,https://eus.rubiconproject.com/^0https://gamezop.com,,"meta data, value bytes is [8 140 191 139 135 231 167 221 23 16 139 2]"
+true,https://eus.rubiconproject.com/^0https://microsoftcasualgames.com,,"meta data, value bytes is [8 238 200 131 155 130 231 221 23 16 203 4]"
+true,https://fast.wistia.net/^0https://mit.edu,,"meta data, value bytes is [8 161 207 246 216 207 228 221 23 16 177 3]"
+true,https://fpt2.microsoft.com,,"meta data, value bytes is [8 208 246 212 141 244 155 224 23 16 42]"
+true,https://peppagame.com,,"meta data, value bytes is [8 238 152 230 232 230 175 221 23 16 241 26]"
+true,https://player.aniview.com/^0https://microsoftcasualgames.com,,"meta data, value bytes is [8 204 229 233 152 130 231 221 23 16 58]"
+true,https://prebid.a-mo.net/^0https://microsoftcasualgames.com,,"meta data, value bytes is [8 146 240 132 177 243 230 221 23 16 170 1]"
+true,https://ru.banggood.com,,"meta data, value bytes is [8 195 196 249 206 199 176 224 23 16 220 7]"
+true,https://ru.wikipedia.org,,"meta data, value bytes is [8 201 156 249 192 160 168 221 23 16 168 248 108]"
+true,https://scratch.mit.edu,,"meta data, value bytes is [8 244 145 209 204 136 229 221 23 16 211 4]"
+true,https://stamina-online.com,,"meta data, value bytes is [8 162 161 148 244 151 167 225 23 16 213 5]"
+true,https://support.google.com,,"meta data, value bytes is [8 233 144 181 202 159 176 221 23 16 36]"
+true,https://tr.snapchat.com/^0https://banggood.com,,"meta data, value bytes is [8 176 216 225 211 180 173 224 23 16 159 1]"
+true,https://upupbusiness.online,,"meta data, value bytes is [8 240 179 237 145 242 197 221 23 16 215 4]"
+true,https://web.whatsapp.com,,"meta data, value bytes is [8 156 244 146 226 193 141 224 23 16 156 8]"
+true,https://www.bing.com,,"meta data, value bytes is [8 249 154 183 225 151 167 225 23 16 174 2]"
+true,https://www.chess.com,,"meta data, value bytes is [8 174 151 177 236 187 225 221 23 16 46]"
+true,https://www.google.com,,"meta data, value bytes is [8 222 187 230 134 129 176 224 23 16 147 118]"
+true,https://www.google.com/^0https://gamezop.com,,"meta data, value bytes is [8 255 180 167 195 221 223 221 23 16 20]"
+true,https://www.google.com/^0https://peppagame.com,,"meta data, value bytes is [8 220 137 194 234 230 175 221 23 16 20]"
+true,https://www.kp.ru,,"meta data, value bytes is [8 242 143 168 159 137 229 221 23 16 143 2]"
+true,https://www.microsoft.com,,"meta data, value bytes is [8 139 188 226 131 155 159 225 23 16 166 1]"
+true,https://www.youtube.com,,"meta data, value bytes is [8 197 230 191 218 221 223 221 23 16 159 6]"
+true,https://www.youtube.com/^0https://google.com,,"meta data, value bytes is [8 225 133 213 130 164 168 221 23 16 202 2]"
+true,https://yandex.kz,,"meta data, value bytes is [8 171 167 146 151 136 243 221 23 16 246 177 11]"
+true,https://yastatic.net/^0https://kp.ru,,"meta data, value bytes is [8 224 172 142 161 137 229 221 23 16 239 3]"
+true,https://yastatic.net/^0https://yandex.kz,,"meta data, value bytes is [8 197 133 173 231 150 241 221 23 16 148 1]"
+true,https://znanija.com,,"meta data, value bytes is [8 195 255 134 251 216 158 221 23 16 130 5]"
+false,,,Ĩ۟���
+false,,,���ۗ��
+false,,,���ؗ��
+false,,,��ܼ֞�
+false,,,�������
+false,,,¨�ᗧ�
+false,,,���ᗧ�
+false,,,����
+false,,,1
+false,chrome-extension://enegjkbbakeegngfapepobipndnebkdk,currentActiveDaysNumber,74
+false,chrome-extension://enegjkbbakeegngfapepobipndnebkdk,incrementDate,11.11.2024
+false,chrome-extension://igpdmclhhlcpoindmhkhillbfhdgoegm,persist:____ariaAppDynamicSettings,"{""networkEnvironment"":""\""production\"""",""remoteConfigOverride"":""{\""compose\"":true,\""highlighter\"":true,\""linkify2\"":false,\""linkify3\"":true,\""cli2\"":false,\""pinboard\"":true,\""sia\"":true,\""source_links\"":false,\""screenshotter\"":true,\""organize_tabs\"":false,\""webpage_content\"":false,\""use_webpage_context\"":false}"",""_persist"":""{\""version\"":-1,\""rehydrated\"":true}""}"
+false,chrome-extension://igpdmclhhlcpoindmhkhillbfhdgoegm,persist:____ariaAppInteractions,"{""authorizedOnboardingCompletedOnce"":""{}"",""upgradeBannerSeenInSidebar"":""false"",""upgradeBannerSeenOnceOnCli"":""false"",""_persist"":""{\""version\"":-1,\""rehydrated\"":true}""}"
+false,chrome-extension://igpdmclhhlcpoindmhkhillbfhdgoegm,persist:____ariaAppUserSettings,"{""darkThemeEnabled"":""null"",""localModelsEnabled"":""false"",""sourceLinksEnabled"":""true"",""localModelsChangedByUser"":""false"",""writingModeShortcutEnabled"":""true"",""browserDataAccessByUserIdentity"":""{}"",""_persist"":""{\""version\"":-1,\""rehydrated\"":true}""}"
+false,chrome-extension://igpdmclhhlcpoindmhkhillbfhdgoegm,persist:____ariaAuthSession,"{""consent"":""false"",""_persist"":""{\""version\"":-1,\""rehydrated\"":true}""}"
+false,chrome-extension://igpdmclhhlcpoindmhkhillbfhdgoegm,persist:____ariaChatHighlights,"{""highlights"":""[]"",""_persist"":""{\""version\"":-1,\""rehydrated\"":true}""}"
+false,chrome-extension://igpdmclhhlcpoindmhkhillbfhdgoegm,persist:____ariaChatLocalModels,"{""fetchedModels"":""[]"",""localModels"":""[]"",""_persist"":""{\""version\"":-1,\""rehydrated\"":true}""}"
+false,chrome-extension://igpdmclhhlcpoindmhkhillbfhdgoegm,persist:____ariaChatSia,"{""isSiaEnabled"":""true"",""siaPolicyUpdateImpressionTimestamp"":""0"",""_persist"":""{\""version\"":-1,\""rehydrated\"":true}""}"
+false,chrome-extension://igpdmclhhlcpoindmhkhillbfhdgoegm,persist:____ariaChatSuggestions,"{""lastFetchTime"":""0"",""tips"":""[]"",""questions"":""[]"",""_persist"":""{\""version\"":-1,\""rehydrated\"":true}""}"
+false,chrome-extension://igpdmclhhlcpoindmhkhillbfhdgoegm,persist:____ariaChatUserCapabilities,"{""_persist"":""{\""version\"":-1,\""rehydrated\"":true}""}"
+false,chrome-extension://igpdmclhhlcpoindmhkhillbfhdgoegm,persist:____ariaCli,"{""userQueryHistory"":""{}"",""_persist"":""{\""version\"":-1,\""rehydrated\"":true}""}"
+false,chrome-extension://igpdmclhhlcpoindmhkhillbfhdgoegm,persist:____ariaCliPageContext,"{""isPageContextDisclaimerAcknowledged"":""false"",""_persist"":""{\""version\"":-1,\""rehydrated\"":true}""}"
+false,chrome-extension://igpdmclhhlcpoindmhkhillbfhdgoegm,persist:____ariaCompose,"{""myStyleFormData"":""{\""my_casual\"":\""\"",\""my_formal\"":\""\"",\""my_general\"":\""\"",\""title\"":\""\""}"",""promptStudioFormData"":""{\""taskIndex\"":0,\""description\"":\""\"",\""toneIndex\"":1,\""myStyle\"":false,\""lengthIndex\"":1}"",""_persist"":""{\""version\"":-1,\""rehydrated\"":true}""}"
+false,chrome-extension://igpdmclhhlcpoindmhkhillbfhdgoegm,persist:__entry-persist,"{""_persist"":""{\""version\"":-1,\""rehydrated\"":true}""}"
+false,chrome://startpage,campaigns-user-uuid,4e3ab0ea-9bde-577b-5dc8-43e1c3cb08cd
+false,chrome://startpage,rate_opera_visibility_timestamp,1739580003747
+false,chrome://startpage,rate_opera_visibility_timestamp_check,1731332224925
+false,http://u-edu.kz,_ym88101338:0_reqNum,154
+false,http://u-edu.kz,_ym88101338_il,"""KE>4"""
+false,http://u-edu.kz,_ym88101338_lastHit,1715941894026
+false,http://u-edu.kz,_ym88101338_lsid,263396109812
+false,http://u-edu.kz,_ym_retryReqs,{}
+false,http://u-edu.kz,_ym_synced,{}
+false,http://u-edu.kz,_ym_uid,"""1713761233950720561"""
+false,http://u-edu.kz,_ym_wv2rf:88101338:0,1
+false,https://1xbet.kz,__fatman_ab_tests,"{""408ce34b-89b2-49ee-af24-eb6ebb0fa981"":[]}"
+false,https://1xbet.kz,__fatman_uuid,408ce34b-89b2-49ee-af24-eb6ebb0fa981
+false,https://1xbet.kz,video_token,
+false,https://7698.play.gamezop.com,Gamezop.CategoryPreference,"{""state"":{""preference"":{""action"":0,""adventure"":0,""arcade"":0,""puzzleLogic"":0,""sportsRacing"":0,""strategy"":0}},""version"":0}"
+false,https://7698.play.gamezop.com,Gamezop.FavoriteGame,"{""state"":{""games"":[]},""version"":0}"
+false,https://7698.play.gamezop.com,Gamezop.RecentlyPlayedGames,"{""state"":{""games"":[{""gameCode"":""rkAXTzkD5kX"",""time"":1714795227050},{""gameCode"":""rJJMVIa8p-x"",""time"":1713761330521}]},""version"":0}"
+false,https://7698.play.gamezop.com,MOE_DATA,"value is too long, length is 26170, supported max length is 2048"
+false,https://7698.play.gamezop.com,_gzp-57d370d9-d604-4b6b-8628-95ee800b2386,"{""rkAXTzkD5kX"":{""context"":""87379c65-95bb-4827-be66-16307cef8974"",""data"":{""metadata"":{""highscore"":0,""data"":{""audio key"":true,""isMuted"":false}},""score"":0,""leaderboard"":""default"",""state"":""over"",""time"":""2024-05-04T05:14:37.456Z"",""matchId"":"""",""gamePlayId"":""011a6741-68e1-e04c-8db5-3bfc3f64ed8a"",""tcount"":157,""duration"":1316945},""shareMessage"":""Try Chess Grandmaster on Gamezop! Tap and start playing without installing any apps: https://gamescdn.gamezop.com/rkAXTzkD5kX/index.html?id=7698&src=7698&medium=general"",""publisherName"":""OperaPc"",""config"":{""breakThrough"":null},""scripts"":[],""expiry"":1714805554992}}"
+false,https://7698.play.gamezop.com,_gzp-params,"{""iiv"":2,""mode"":""default"",""pubId"":""7698"",""environment"":""wild-west"",""queryParams"":""id=7698&lang=ru""}"
+false,https://7698.play.gamezop.com,_gzp_userId,d7d60901-22d9-48b0-a8de-7be403677dff
+false,https://7698.play.gamezop.com,aps:98ff8409-7b8a-47fb-863e-c441e9f08c7c:deviceSignal/sua,"{""architecture"":""x86"",""bitness"":""64"",""mobile"":0,""model"":"""",""source"":2,""platform"":{""brand"":""Windows"",""version"":[""10"",""0"",""0""]},""browsers"":[{""brand"":""Opera"",""version"":[""109"",""0"",""5097"",""80""]},{""brand"":""Not:A-Brand"",""version"":[""8"",""0"",""0"",""0""]},{""brand"":""Chromium"",""version"":[""123"",""0"",""6312"",""124""]}]}"
+false,https://7698.play.gamezop.com,aps:98ff8409-7b8a-47fb-863e-c441e9f08c7c:sessionMarker/marker,ef63990c-63fb-41f4-aecb-ea75be9e3edd_2024-04-22T04:47:40.871Z
+false,https://7698.play.gamezop.com,apstagCxMEnabled,1
+false,https://7698.play.gamezop.com,google_adsense_settings,"{""ca-pub-3452022011371122"":[""ca-pub-3452022011371122"",[[1]]]}"
+false,https://7698.play.gamezop.com,google_ama_config,"value is too long, length is 10993, supported max length is 2048"
+false,https://7698.play.gamezop.com,id5id,%7B%22signature%22%3A%22ID5_Au8frtvT7KO7xFSpxJZSESrwcOE5c5KTQB__K9fIOcHD51ikxVMeRkP4J6CHyjYtGICFNhMh4m3727I3DFXDvzDTydGPuOB-KUFYfh_SA9yQ-9J9_jB0Q9c9XR0ix6qg_ia_ur5gfYkS8b_AsKM%22%2C%22created_at%22%3A%222024-04-22T04%3A47%3A46.765Z%22%2C%22id5_consent%22%3Atrue%2C%22original_uid%22%3A%22ID5*CWd0AumBz1WJ8f2bUsUyVgB9cEDMEVCRBxRdgwKm97GeCjrF8Zq424PWw-3kDaVm%22%2C%22universal_uid%22%3A%22ID5*CWd0AumBz1WJ8f2bUsUyVgB9cEDMEVCRBxRdgwKm97GeCjrF8Zq424PWw-3kDaVm%22%2C%22link_type%22%3A2%2C%22cascade_needed%22%3Atrue%2C%22privacy%22%3A%7B%22jurisdiction%22%3A%22other%22%2C%22id5_consent%22%3Atrue%7D%2C%22ext%22%3A%7B%22linkType%22%3A2%2C%22pba%22%3A%22VTWyY%2FZ%2BriuQ5drXMdf0xA%3D%3D%22%7D%2C%22cache_control%22%3A%7B%22max_age_sec%22%3A7200%7D%7D
+false,https://7698.play.gamezop.com,id5id_cached_consent_data,8113228757666803
+false,https://7698.play.gamezop.com,id5id_cached_consent_data_exp,"Thu, 13 Jun 2024 10:35:29 GMT"
+false,https://7698.play.gamezop.com,id5id_exp,"Mon, 12 Aug 2024 10:35:29 GMT"
+false,https://7698.play.gamezop.com,id5id_last,"Tue, 14 May 2024 10:35:29 GMT"
+false,https://7698.play.gamezop.com,id5id_last_exp,"Mon, 12 Aug 2024 10:35:29 GMT"
+false,https://7698.play.gamezop.com,id5id_privacy,"{""jurisdiction"":""other"",""id5_consent"":true}"
+false,https://7698.play.gamezop.com,id5id_privacy_exp,"Thu, 13 Jun 2024 10:35:29 GMT"
+false,https://7698.play.gamezop.com,id5id_v2_1351668362332902,"{""data"":{""response"":{""signature"":""ID5_Au8frtvT7KO7xFSpxJZSESrwcOE5c5KTQB__K9fIOcHD51ikxVMeRkP4J6CHyjYtGICFNhMh4m3727I3DFXDvzDTydGPuOB-KUFYfh_SA9yQ-9J9_jB0Q9c9XR0ix6qg_ia_ur5gfYkS8b_AsKM"",""created_at"":""2024-04-22T04:47:46.765Z"",""id5_consent"":true,""original_uid"":""ID5*CWd0AumBz1WJ8f2bUsUyVgB9cEDMEVCRBxRdgwKm97GeCjrF8Zq424PWw-3kDaVm"",""universal_uid"":""ID5*CWd0AumBz1WJ8f2bUsUyVgB9cEDMEVCRBxRdgwKm97GeCjrF8Zq424PWw-3kDaVm"",""link_type"":2,""cascade_needed"":true,""privacy"":{""jurisdiction"":""other"",""id5_consent"":true},""ext"":{""linkType"":2,""pba"":""VTWyY/Z+riuQ5drXMdf0xA==""},""cache_control"":{""max_age_sec"":7200}},""responseTimestamp"":1715682929626,""nb"":0},""expireAt"":1716978929628}"
+false,https://ads.pubmatic.com/^0https://gamezop.com,PubMatic_USP,"{""156011"":{""t"":1713761265286,""c"":""1---""},""159719"":{""t"":1713761265274,""c"":""1---""}}"
+false,https://aliexpress.ru,APLUS_CNA,20240925_JN5dH73kGxECAVuTWMA3Zyfd
+false,https://aliexpress.ru,APLUS_LS_KEY,"[""APLUS_S_CORE_1.0.1_20240910171434_beba2""]"
+false,https://aliexpress.ru,APLUS_S_CORE_1.0.1_20240910171434_beba2,"value is too long, length is 358975, supported max length is 2048"
+false,https://aliexpress.ru,ETLCD,false
+false,https://aliexpress.ru,_uab_collina,172536221221789899085568
+false,https://aliexpress.ru,_um_ru__umdata,T2gATBm0eV9gBLcfWEC24rgY3QZBmOvPZmPiK8q0zAr31pw247eMG2iq4Oa6SU2-bS4=
+false,https://aliexpress.ru,_um_ru_umsvtn,T2gA0Q4D35_47lhImk3RuB1Fv3qViyP61dCH6Ogru-OnVOjaXjBZrvTwhZRDF1GuS0A=@@1727237350
+false,https://aliexpress.ru,_umcost,2586
+false,https://aliexpress.ru,_ym29739640:0_reqNum,77
+false,https://aliexpress.ru,_ym29739640_lastHit,1727186829094
+false,https://aliexpress.ru,_ym29739640_lsid,1344775977229
+false,https://aliexpress.ru,_ym64660789:0_reqNum,77
+false,https://aliexpress.ru,_ym64660789_lastHit,1727186829101
+false,https://aliexpress.ru,_ym64660789_lsid,1305750226430
+false,https://aliexpress.ru,_ym_retryReqs,{}
+false,https://aliexpress.ru,_ym_synced,{}
+false,https://aliexpress.ru,_ym_uid,"""172536221266732342"""
+false,https://aliexpress.ru,_ym_wv2rf:29739640:0,1
+false,https://aliexpress.ru,a_t_info,"{""name"":""homepage"",""id"":""00ffaa41-6aae-4928-9a08-4ee51da8e805"",""chinaName"":""home""}"
+false,https://aliexpress.ru,acs_3,"{""hash"":""5c916bd2c1ace501cfd5"",""nextSyncTime"":1727249170218,""syncLog"":{""224"":1727162770218,""1228"":1727162770218,""1230"":1727162770218}}"
+false,https://aliexpress.ru,adrcid,Amk9hP5RPIH5EDuH2k4mCKw
+false,https://aliexpress.ru,adrdel,1727237356945
+false,https://aliexpress.ru,auyst,1725362211
+false,https://aliexpress.ru,isg__,BFpa-9r26KYMjmQvZGG8VYDouwB8i95lmyF2-2TTBu241_oRTBsudSCmo7vLB1b9
+false,https://aliexpress.ru,lswuru,T2gAc9xOy-BdeBVpPuLeDpL5MWwjDMoWKrLCQGjYRH6-CFdmbxRb_9vlF9f2aIDe8fg=@@1727237358
+false,https://aliexpress.ru,rb_sync_id,"{""time"":1727162772629,""fpid"":""Z2_xa8f0k0RkA1ThXtMdb"",""metricsTime"":1727162772634}"
+false,https://aliexpress.ru,syfhs,953657978
+false,https://aliexpress.ru,tfstk__,g6AE_BjuNXhUvLcf5NCPuH4R2MCCO6mbUQs5rUYlRMjnp3GzaeLlPpsCAdWklGKPe2I5qg-WrpgsGjTpJ_CkamGjGtWPQpOFqu1kJ8lLPgijGjTnkxif9mgRf4BhAafl-TXhSV75k82HqTVMSGQRrkbutV8GXGbhqwXhslbAruqkq_0wSGQoN3OkGvQRKq99yxDxMQWFmejaa3dN-9yp-GPuZCJNLiAPb7Vk_wLTPXf_gYsDHM6fmhc_T_8Gzn72YlmNZFRpgOAnX7-2bKfNfBmYGFT6vI5HgDPC5TSeIBXar7YGsd-kUHoUpMvBbtQGIzlA5nsMJBvZylYHcM5hSOGmuFXkCBBvOcVFiKLCOLxi_W-c4CERSr96wpruU9bO7igZ7GcPS554ztKae8BdWNSj-lw8e9bO7igZ78eRKNQNcVuN.
+false,https://aliexpress.ru,tmr_lvid,143769805e78c6b7f92b8f7a7f8aa391
+false,https://aliexpress.ru,tmr_lvidTS,1725362212069
+false,https://aliexpress.ru,tmr_reqNum,139
+false,https://aliexpress.ru,tmr_trgfpid,"{""fpid"":""Z2_xa8f0k0RkA1ThXtMdb"",""ts"":1727162772592}"
+false,https://aliexpress.ru,web_behavior_time,1727791612437
+false,https://app-212890.games.s3.yandex.net/^0https://yandex.kz,_ym2163491:0_reqNum,2
+false,https://app-212890.games.s3.yandex.net/^0https://yandex.kz,_ym2163491_lastHit,1716185908101
+false,https://app-212890.games.s3.yandex.net/^0https://yandex.kz,_ym2163491_lsid,362463408721
+false,https://app-212890.games.s3.yandex.net/^0https://yandex.kz,_ym3:0_reqNum,1
+false,https://app-212890.games.s3.yandex.net/^0https://yandex.kz,_ym3_lsid,1660821170073
+false,https://app-212890.games.s3.yandex.net/^0https://yandex.kz,_ym_retryReqs,{}
+false,https://app-212890.games.s3.yandex.net/^0https://yandex.kz,_ym_synced,{}
+false,https://app-212890.games.s3.yandex.net/^0https://yandex.kz,_ym_uid,"""1716185890930560596"""
+false,https://app-212890.games.s3.yandex.net/^0https://yandex.kz,_ym_wasSynced,"{""time"":1716185889987,""params"":{""sbp"":{""a"":""3ZVkts56iPnImGRF92OHX+D1ySPDHfcFuqiMVow7+gepfec0WYOuyH+bEjt7cZiR"",""b"":""KybkH1cRJmgj+1ziSaC1U1qlt0B8Jam1YRVTFnbMBtHQ/gtoF2OKnGA1rJi89xJu""},""eu"":0,""hittoken"":""1716185890_ab519b3dbc0adf32bf385ebece0696b1e540def7da04dabe4dc7d4fa5a297d6d"",""oauth"":1},""bkParams"":{}}"
+false,https://apps.shopify.com,bugsnag-anonymous-id,clvahb7tf00003x6lqjph44g9
+false,https://apps.shopify.com,lastExternalReferrer,other
+false,https://apps.shopify.com,lastExternalReferrerTime,1714036067612
+false,https://blocked.botfaqtor.ru/^0https://upupbusiness.online,_ym57157849:0_reqNum,34
+false,https://blocked.botfaqtor.ru/^0https://upupbusiness.online,_ym57157849_lastHit,1714632429099
+false,https://blocked.botfaqtor.ru/^0https://upupbusiness.online,_ym57157849_lsid,1401797323806
+false,https://blocked.botfaqtor.ru/^0https://upupbusiness.online,_ym_retryReqs,{}
+false,https://blocked.botfaqtor.ru/^0https://upupbusiness.online,_ym_synced,{}
+false,https://blocked.botfaqtor.ru/^0https://upupbusiness.online,_ym_uid,"""1714036168171355621"""
+false,https://blocked.botfaqtor.ru/^0https://upupbusiness.online,rb_sync_id,"{""time"":1714472945612,""fpid"":""az2GQP5PrcyWX0X9DYOvZ"",""metricsTime"":1714472945967}"
+false,https://blocked.botfaqtor.ru/^0https://upupbusiness.online,tmr_lvid,fefeca3c0985c3c6f5dcbc52b7fb4467
+false,https://blocked.botfaqtor.ru/^0https://upupbusiness.online,tmr_lvidTS,1714036167105
+false,https://blocked.botfaqtor.ru/^0https://upupbusiness.online,tmr_reqNum,30
+false,https://blocked.botfaqtor.ru/^0https://upupbusiness.online,tmr_trgfpid,"{""fpid"":""az2GQP5PrcyWX0X9DYOvZ"",""ts"":1714632414143}"
+false,https://checks.botfaqtor.ru/^0https://upupbusiness.online,_ym62322715:0_reqNum,1
+false,https://checks.botfaqtor.ru/^0https://upupbusiness.online,_ym62322715_lsid,87431533049
+false,https://checks.botfaqtor.ru/^0https://upupbusiness.online,_ym_retryReqs,{}
+false,https://checks.botfaqtor.ru/^0https://upupbusiness.online,_ym_synced,{}
+false,https://checks.botfaqtor.ru/^0https://upupbusiness.online,_ym_uid,"""1714036168171355621"""
+false,https://eus.rubiconproject.com/^0https://gamezop.com,khaos,LVAH8VLD-19-ZH1
+false,https://eus.rubiconproject.com/^0https://gamezop.com,pux,2249=125410&2307=125410&2861=125410&2974=125410&4114=125410&4858=125410&2249-DV360-Hosted=125410&goog=125410&a9us=125410&2179-na=125410&2179-eu=125410&pb_appneuxs=125410&connatix=125410&brx=125410&tapad-crossdevice=125410&pb_adaptmx=125410&
+false,https://eus.rubiconproject.com/^0https://microsoftcasualgames.com,fcap,"{""13918"":{""cap"":1,""exp"":1716015656.586},""21350"":{""cap"":1,""exp"":1716015656.486}}"
+false,https://eus.rubiconproject.com/^0https://microsoftcasualgames.com,khaos,LVAH8VLD-19-ZH1
+false,https://eus.rubiconproject.com/^0https://microsoftcasualgames.com,pux,1185=126014&1986=126014&2149=126014&2249=126013&2307=126013&2676=126014&2861=126013&2974=126013&3664=126014&3858=126014&4112=126014&4114=126013&4858=126013&5528=126014&2179-na=126013&goog=126013&2249-DV360-Hosted=126013&2179-eu=126013&a9us=126013&primis=126013&connatix=126013&tapad-crossdevice=126013&share-through=126013&pb_adaptmx=126013&pb_appneuxs=126014&sovrn=126014&seedtag=126014&idl=126014&minute_media=126014&adsyoulike=126014&mediavine-seller=126014&unruly=126014&
+false,https://fast.wistia.net/^0https://mit.edu,wistia,"{""accounts_loaded"":{""wistia-production_750265"":1715850961503},""medias_loaded"":{""joal01i8b1"":1715850961503},""visitor_version"":0,""hls"":{""bandwidth_estimate"":19187028.140997075},""accounts_played"":{""wistia-production_750265"":1715850963233},""medias_played"":{""joal01i8b1"":1715850963234}}"
+false,https://fast.wistia.net/^0https://mit.edu,wistia-video-progress-joal01i8b1,"{""resumableKey"":""d465786_e4b2289e-205f-4995-a45d-f56c5da1b826-ed4328c52-b70d574f8f63-c709"",""lastTime"":8.07789}"
+false,https://fpt2.microsoft.com,MUID,89a09db4-a2a1-4ab2-b5d3-1b8e5df20458
+false,https://peppagame.com,__lsv__,[1714036159219]
+false,https://peppagame.com,google_adsense_settings,"{""ca-pub-9284205722386242"":[""ca-pub-9284205722386242"",[[1]]]}"
+false,https://peppagame.com,google_ama_config,"value is too long, length is 3290, supported max length is 2048"
+false,https://peppagame.com,show_interstitial,true
+false,https://player.aniview.com/^0https://microsoftcasualgames.com,av_sd_5f2063121d82c82557194737,"{""lastSync"":1715929253184}"
+false,https://prebid.a-mo.net/^0https://microsoftcasualgames.com,__amuidpb,80aa5090-9f76-46c1-beb5-c79ed0bf721a
+false,https://prebid.a-mo.net/^0https://microsoftcasualgames.com,__amuidst.1,"{""cn"":12,""cn2"":12,""cn3"":2498.75}"
+false,https://prebid.a-mo.net/^0https://microsoftcasualgames.com,_apbsyn,1715929293226
+false,https://prebid.a-mo.net/^0https://microsoftcasualgames.com,_aswt_s,1715929293225
+false,https://prebid.a-mo.net/^0https://microsoftcasualgames.com,amdgt_lk@cfs,"[true,1715950893223]"
+false,https://ru.banggood.com,IPCountry,KZ
+false,https://ru.banggood.com,_RecKey,RC Crawler
+false,https://ru.banggood.com,__rtbh.lid,"{""eventType"":""lid"",""id"":""uXtEqGcRuQk5BPU9gweM"",""expiryDate"":""2025-09-25T09:24:45.421Z""}"
+false,https://ru.banggood.com,__rtbh.uid,"{""eventType"":""uid"",""id"":""unknown"",""expiryDate"":""2025-09-25T04:09:14.710Z""}"
+false,https://ru.banggood.com,_pin_unauth_ls,"{""value"":""dWlkPVkyVTNNVGRsWXpndE5tSmlNaTAwWkRrekxXRmxNbUl0TURZNU56RTBOak5qTmpjeA"",""expires"":""2025-09-25T04:09:17.638Z""}"
+false,https://ru.banggood.com,_uetsid,61bc40d0797211efb12c7f2146676fc4
+false,https://ru.banggood.com,_uetsid_exp,"Thu, 26 Sep 2024 04:09:15 GMT"
+false,https://ru.banggood.com,_uetvid,ce687db074ab11efa7165586e3f8c8d3
+false,https://ru.banggood.com,_uetvid_exp,"Mon, 20 Oct 2025 04:09:15 GMT"
+false,https://ru.banggood.com,_ym94895775:0_reqNum,33
+false,https://ru.banggood.com,_ym94895775_lastHit,1727186829094
+false,https://ru.banggood.com,_ym94895775_lsid,671677317324
+false,https://ru.banggood.com,_ym_retryReqs,{}
+false,https://ru.banggood.com,_ym_synced,{}
+false,https://ru.banggood.com,_ym_uid,"""1726546670187424350"""
+false,https://ru.banggood.com,_ym_wv2rf:94895775:0,1
+false,https://ru.banggood.com,dc_device_id,172654665742949956
+false,https://ru.banggood.com,deviceId,172654650202895300
+false,https://ru.banggood.com,is_sign_in,0
+false,https://ru.banggood.com,lastExternalReferrer,empty
+false,https://ru.banggood.com,lastExternalReferrerTime,1727237356943
+false,https://ru.banggood.com,u_sclid,h4gJPhhFkQ9PTjTduY4ZiHicxbcTtkMiuQxmm4sCv6tVV5A4hpaavbMRIhSGc2HO
+false,https://ru.banggood.com,u_sclid_r,gQgJPhhFkQ9PTjTduY4ZiHicxbcTtkMidHYm18OMZpuLAr-rVVeQOIaWmr2zESIUhnNhzkGOpww
+false,https://ru.wikipedia.org,CentralAuthAnon,1713863164937
+false,https://ru.wikipedia.org,MediaWikiModuleStore:ruwiki,"value is too long, length is 1784679, supported max length is 2048"
+false,https://ru.wikipedia.org,ext-quicksurvey-perceived-performance-survey,1204091eceaf5c3dd6c6
+false,https://ru.wikipedia.org,wmE-sessionTickLastTickTime,1713776764909
+false,https://ru.wikipedia.org,wmE-sessionTickTickCount,1
+false,https://scratch.mit.edu,minilogSettings,true
+false,https://scratch.mit.edu,wistia,"{""accounts_loaded"":{""wistia-production_750265"":1715866251866},""medias_loaded"":{""joal01i8b1"":1715850961466,""rpjvs3v9gj"":1715866251866},""visitor_version"":0,""hls"":{""bandwidth_estimate"":500000},""accounts_played"":{""wistia-production_750265"":1715850962838},""medias_played"":{""joal01i8b1"":1715850962838}}"
+false,https://scratch.mit.edu,wistia-video-progress-joal01i8b1,"{""resumableKey"":""d465786_9d5b233e-bc54-4717-ae5f-c0ffb072636c-ef675b69d-35abace57fbe-ef23"",""lastTime"":7.251555}"
+false,https://scratch.mit.edu,wistia-video-progress-rpjvs3v9gj,"{""resumableKey"":""d465786_dabb788f-fb98-4b99-899d-16d85cc12ef8-9e8053912-25a72165da3d-d637""}"
+false,https://stamina-online.com,__pcode_freq_storage__,{}
+false,https://stamina-online.com,_ym117132:1_reqNum,4
+false,https://stamina-online.com,_ym117132_lsid,1676986489737
+false,https://stamina-online.com,_ym26812653:0_reqNum,11
+false,https://stamina-online.com,_ym26812653_il,"""20 >; 0 &nbsp;00:00 &nbsp;0%"""
+false,https://stamina-online.com,_ym26812653_lastHit,1731332259071
+false,https://stamina-online.com,_ym26812653_lsid,310591593848
+false,https://stamina-online.com,_ym85315594:0_reqNum,8
+false,https://stamina-online.com,_ym85315594_il,"""20 >; 0 &nbsp;00:00 &nbsp;0%"""
+false,https://stamina-online.com,_ym85315594_lastHit,1731332258063
+false,https://stamina-online.com,_ym85315594_lsid,283409208469
+false,https://stamina-online.com,_ym_retryReqs,{}
+false,https://stamina-online.com,_ym_synced,{}
+false,https://stamina-online.com,_ym_uid,"""1731058843669829596"""
+false,https://stamina-online.com,_ym_wv2rf:85315594:0,1
+false,https://stamina-online.com,rb_sync_id,"{""time"":1731332244573,""fpid"":""Vw4BnsUB-mVxVeEYC4z3V"",""metricsTime"":1731332244590}"
+false,https://stamina-online.com,tmr_lvid,ce530286274a336463437d5612b1c711
+false,https://stamina-online.com,tmr_lvidTS,1731058842592
+false,https://stamina-online.com,tmr_reqNum,14
+false,https://stamina-online.com,tmr_trgfpid,"{""fpid"":""Vw4BnsUB-mVxVeEYC4z3V"",""ts"":1731332244425}"
+false,https://support.google.com,sc-if-tooltip-seen-storage-key,true
+false,https://tr.snapchat.com/^0https://banggood.com,u_sclid,DdQ3v8JKmy_h5kjzmj0uYQfo8zjNu1bHYxXusl5TALXx_Bi6UYhaF3QqqjtZxMtd
+false,https://tr.snapchat.com/^0https://banggood.com,u_sclid_r,FlQ3v8JKmy_h5kjzmj0uYQfo8zjNu1bHVSU7oGyV7rJeUwC18fwYulGIWhd0Kqo7WcTLXRxwZ1Y
+false,https://upupbusiness.online,_ym94751946:0_reqNum,30
+false,https://upupbusiness.online,_ym94751946_lastHit,1714640875078
+false,https://upupbusiness.online,_ym94751946_lsid,301020187393
+false,https://upupbusiness.online,_ym96363435:0_reqNum,23
+false,https://upupbusiness.online,_ym96363435_lastHit,1714640873077
+false,https://upupbusiness.online,_ym96363435_lsid,275228266548
+false,https://upupbusiness.online,_ym_retryReqs,{}
+false,https://upupbusiness.online,_ym_synced,{}
+false,https://upupbusiness.online,_ym_uid,"""1714051381317099021"""
+false,https://upupbusiness.online,_ym_wv2rf:94751946:0,1
+false,https://upupbusiness.online,_ym_wv2rf:96363435:0,1
+false,https://upupbusiness.online,iso_code,ru
+false,https://upupbusiness.online,lastExternalReferrer,other
+false,https://upupbusiness.online,lastExternalReferrerTime,1714640859638
+false,https://upupbusiness.online,rb_sync_id,"{""time"":1714631954163,""fpid"":""U-G1tBOZv0YI7nJgJ5fwT"",""metricsTime"":1714631954529}"
+false,https://upupbusiness.online,tmr_lvid,a568d493302518043203025ac69841f3
+false,https://upupbusiness.online,tmr_lvidTS,1714036167401
+false,https://upupbusiness.online,tmr_reqNum,39
+false,https://upupbusiness.online,tmr_trgfpid,"{""fpid"":""U-G1tBOZv0YI7nJgJ5fwT"",""ts"":1714631954165}"
+false,https://web.whatsapp.com,Session,6dkm2n:1726050635829
+false,https://web.whatsapp.com,WALangPhonePref,"""ru_RU"""
+false,https://web.whatsapp.com,WALangPrefDidMismatchWithCookie,false
+false,https://web.whatsapp.com,WANoiseInfo,"{""privKey"":""CnIy6RbgDyQTxi9ffT11RGpuVVWCOmEkWUC6RvOyPiW9EZM/Q8zB5zKJ4P8jQuph"",""pubKey"":""oCk2B5GNOJySUDmZWCeRE3zhTPQBDWCBtAs40/daq6a9Rw+EROW2dhNR+jy5KNAc"",""recoveryToken"":""4SKfcvf4CCjqlXgbvbat7MJmzPcqLDjsr3V2eF3bUp4=""}"
+false,https://web.whatsapp.com,WANoiseInfoIv,"[""JdruhR4lR8reVwOeRPo3yg=="",""PcWX5pOUxkYGxo5/jrFQ4Q=="",""I5t1Fn4SQQ5M2DuiJcVxMA=="",""toQp0S39+HESiy2iXs4u6w==""]"
+false,https://web.whatsapp.com,WAUnknownID,"""unknown-8890872914"""
+false,https://web.whatsapp.com,WAWebEncKeySalt,"""Q7P+zLw4lYjE/qBIhiym5YgqDAvLHzYgvEq4oLpduwSMTFLbP7LIg8GEHzNHTu/bALJGgtZnpzJEZOngNNhuo38p76irgf8BSZ3jnGq5s5z5ID/CSpWiw9YagiK3x8uIFQT4GPjt9igD57FrOatgk0xc/EpctrMjm6g/NjudwV0="""
+false,https://web.whatsapp.com,WAWebWAMBeaconingSettings,"""[{\""key\"":\""regular\"",\""ts\"":1726050621,\""value\"":null}]"""
+false,https://web.whatsapp.com,WaADVSecretKey,"""JYQFbokzJtGWmbyjTGRMZF0pLRNYHsh4Cx6M31x2xzs="""
+false,https://web.whatsapp.com,WebEncKeySalt,"""Q7P+zLw4lYjE/qBIhiym5YgqDAvLHzYgvEq4oLpduwSMTFLbP7LIg8GEHzNHTu/bALJGgtZnpzJEZOngNNhuo38p76irgf8BSZ3jnGq5s5z5ID/CSpWiw9YagiK3x8uIFQT4GPjt9igD57FrOatgk0xc/EpctrMjm6g/NjudwV0="""
+false,https://web.whatsapp.com,whatsapp-mutex,"""x592278592:init_1726051880633"""
+false,https://www.bing.com,V2BubbleTrigger,1731058838363
+false,https://www.bing.com,_$Maps_deviceInfo2_expiration,1727956961394
+false,https://www.bing.com,cib__firstTimeAccessed,1714640897402
+false,https://www.bing.com,cib__secondTimeAccessed,1714640990349
+false,https://www.bing.com,deviceInfo2,"{""gpuRenderer"":""angle (amd. amd radeon(tm) vega 3 graphics direct3d11 vs_5_0 ps_5_0. d3d11)"",""webgl2Supported"":true}"
+false,https://www.bing.com,rewwid,eyJkY2lwIjowfQ==
+false,https://www.chess.com,json_settings,"{""lastSavedRelease"":1504891089}"
+false,https://www.google.com,_c;;i,p:*|l:9007199254740991_1
+false,https://www.google.com,cdids,
+false,https://www.google.com,ds;;frib,p:m|l:0_true
+false,https://www.google.com,lv,1714640855079
+false,https://www.google.com,nullctx,1
+false,https://www.google.com,rc::a,MTJ1YmFndTFmcWQ5MXk=
+false,https://www.google.com,sb_wiz.pq,A:@5BG >=;09=
+false,https://www.google.com,sb_wiz.pq_tm_hp,1727237338928
+false,https://www.google.com,sb_wiz.qc,7
+false,https://www.google.com,sb_wiz.sc_pq,
+false,https://www.google.com,sb_wiz.sr_di,GNrX-9D1lpvZfxifuM-AgbPxj_sBGI-_v4mpsKajGRjfr_2Lyri-raMBGNOy3uz-l_2vrgE
+false,https://www.google.com,sb_wiz.zpc.gws-wiz-serp.,"value is too long, length is 14767, supported max length is 2048"
+false,https://www.google.com,tup,!18b1!19b0!20b1!23s20240424.0!25b1
+false,https://www.google.com/^0https://gamezop.com,rc::h,1715682928400
+false,https://www.google.com/^0https://peppagame.com,rc::h,1714036161871
+false,https://www.kp.ru,__pcode_freq_storage__,{}
+false,https://www.kp.ru,_ym167170:1_reqNum,2
+false,https://www.kp.ru,_ym167170_lsid,976592704086
+false,https://www.kp.ru,_ym26254:1_reqNum,2
+false,https://www.kp.ru,_ym26254_lsid,1271227042395
+false,https://www.kp.ru,_ym32650950:0_reqNum,4
+false,https://www.kp.ru,_ym32650950_lastHit,1715866425264
+false,https://www.kp.ru,_ym32650950_lsid,152624078008
+false,https://www.kp.ru,_ym_retryReqs,{}
+false,https://www.kp.ru,_ym_synced,{}
+false,https://www.kp.ru,_ym_uid,"""1715866410303832364"""
+false,https://www.microsoft.com,_uetsid,1c956c109db411efb1f7ed0ece9048d8
+false,https://www.microsoft.com,_uetsid_exp,"Sat, 09 Nov 2024 09:30:37 GMT"
+false,https://www.microsoft.com,_uetvid,cfca6d5074ab11efb919c5284f6ba10a
+false,https://www.microsoft.com,_uetvid_exp,"Wed, 03 Dec 2025 09:30:37 GMT"
+false,https://www.youtube.com,Va7e06678||::yt-player::yt-player-lv,"{""data"":""{}"",""creation"":1715682928234}"
+false,https://www.youtube.com,yt-fullerscreen-edu-button-shown-count,"{""data"":""1"",""expiration"":1746349291815,""creation"":1714813291815}"
+false,https://www.youtube.com,yt-icons-last-purged,1712299687678
+false,https://www.youtube.com,yt-player-bandwidth,"{""data"":""{\""delay\"":0.012966715494791668,\""stall\"":0,\""byterate\"":4751071.760163131,\""init\"":1714813216403.6,\""interruptions\"":[{\""stamp\"":1714813200000,\""net\"":23816,\""max\"":0}]}"",""expiration"":1717405777762,""creation"":1714813777762}"
+false,https://www.youtube.com,yt-remote-connected-devices,"{""data"":""[]"",""expiration"":1715769325259,""creation"":1715682925259}"
+false,https://www.youtube.com,yt-remote-device-id,"{""data"":""2eb8b562-a7eb-461b-961f-06705ec4b9e7"",""expiration"":1745045289341,""creation"":1713509289342}"
+false,https://www.youtube.com,ytidb::LAST_RESULT_ENTRY_KEY,"{""data"":{""hasSucceededOnce"":true},""expiration"":1718274931165,""creation"":1715682931165}"
+false,https://www.youtube.com/^0https://google.com,yt-remote-connected-devices,"{""data"":""[]"",""expiration"":1713864108201,""creation"":1713777708201}"
+false,https://www.youtube.com/^0https://google.com,yt-remote-device-id,"{""data"":""83643db2-ce30-4c05-9507-750202e25a55"",""expiration"":1744283509728,""creation"":1712747509728}"
+false,https://www.youtube.com/^0https://google.com,ytidb::LAST_RESULT_ENTRY_KEY,"{""data"":{""hasSucceededOnce"":true},""expiration"":1716369708019,""creation"":1713777708019}"
+false,https://yandex.kz,__pcode_freq_storage__,{}
+false,https://yandex.kz,_ym2163491:1_reqNum,2
+false,https://yandex.kz,_ym2163491_lsid,1496966536042
+false,https://yandex.kz,_ym3124601:1_reqNum,2
+false,https://yandex.kz,_ym3124601_lsid,969216738821
+false,https://yandex.kz,_ym394969:1_reqNum,12
+false,https://yandex.kz,_ym394969_lsid,1246859872981
+false,https://yandex.kz,_ym3:0_reqNum,2
+false,https://yandex.kz,_ym3_lsid,1242289187542
+false,https://yandex.kz,_ym42093449:0_reqNum,12
+false,https://yandex.kz,_ym42093449_lsid,1003844637351
+false,https://yandex.kz,_ym49035923:0_reqNum,1061
+false,https://yandex.kz,_ym49035923_il,"""C1 ?>153 87 BN@L<K 8;;8>=5@0"""
+false,https://yandex.kz,_ym49035923_lastHit,1716347091995
+false,https://yandex.kz,_ym49035923_lsid,906732846575
+false,https://yandex.kz,_ym7204553:1_reqNum,10
+false,https://yandex.kz,_ym7204553_lsid,296258772160
+false,https://yandex.kz,_ym723233:0_reqNum,8
+false,https://yandex.kz,_ym723233_il,"""3@K"""
+false,https://yandex.kz,_ym723233_lastHit,1716186480102
+false,https://yandex.kz,_ym723233_lsid,1262769228917
+false,https://yandex.kz,_ym95862850:0_reqNum,2
+false,https://yandex.kz,_ym95862850_lsid,32804838394
+false,https://yandex.kz,_ym_afr,"""48b7108f72d1baf101155e858fc17403-438e82642ffca9a03995930c0c44dd85-3d6fiabc_1g-2172649472-57a6ae31_3j8h47eg_2ge943db_30ah20h1-1366x728x0-unknown-5"""
+false,https://yandex.kz,_ym_afr:i,2
+false,https://yandex.kz,_ym_afr:v,"""2"""
+false,https://yandex.kz,_ym_retryReqs,"value is too long, length is 5941, supported max length is 2048"
+false,https://yandex.kz,_ym_synced,"{""kz"":28604706}"
+false,https://yandex.kz,_ym_uid,"""1716185435921495507"""
+false,https://yandex.kz,_ym_wasSynced,"{""time"":1716282385156,""params"":{""sbp"":{""a"":""SP/X37akU/JvnaXbnr6CbW7ObKkRt4QJtS4Wa4WSMivZuREGR7M+kQNZZ0kPA0wk"",""b"":""bnFozUtlDXxhbo0H9gwaJmnimq4bWiub0o6+CCGm/rq6HxcHxwhF4BQWnFmTcRYa""},""eu"":0,""hittoken"":""1716282385_2510a249877953e302c3967b62bf6904ffaf2f3a595792382fde7776294c200b"",""oauth"":1},""bkParams"":{}}"
+false,https://yandex.kz,beerka,2.1.0
+false,https://yandex.kz,clickdaemon-queue,[]
+false,https://yandex.kz,count_of_user_visits,3
+false,https://yandex.kz,gaCounterShowTime,1716185440140
+false,https://yandex.kz,last-day-dau-logged,"""2024-05-22"""
+false,https://yandex.kz,yandexGames_application_state,"{""platformSubscriptions"":{""loading"":false,""value"":{""subscriptions"":{},""time"":-1,""ver"":2}},""user"":{""activity"":{""fetching"":false,""fetchedTimestamp"":1716185438606,""value"":{""login"":""""}}}}"
+false,https://yandex.kz,yandexGames_catalog_shortcut_info_last_sent_date,2024-05-22T03:04:32.022Z
+false,https://yandex.kz,yandexGames_fonts,"value is too long, length is 178427, supported max length is 2048"
+false,https://yandex.kz,yandexGames_last_play_accumulated_goal,10
+false,https://yandex.kz,yandexGames_noAds_popup_data,"{""firstVisitTime"":1716185480428}"
+false,https://yandex.kz,yandexGames_play_accumulated_game_time,1005
+false,https://yandex.kz,yandexGames_playedTimes,"[{""id"":""311292"",""t"":1716347056,""c"":5},{""id"":""212890"",""t"":1716185889,""c"":1},{""id"":""240398"",""t"":1716185477,""c"":1}]"
+false,https://yandex.kz,yandexGames_subscriptions,"{""data"":{},""time"":1716347066399,""ver"":2}"
+false,https://yandex.kz,yandexGames_support_debug_log,"{""logins"":[{""cookie"":""yandexuid=217440901713761234; yandex_login="",""timestamp"":1716185476022}]}"
+false,https://yandex.kz,yandexGames_test_ls,1716347073998
+false,https://yandex.kz,yandexGames_version,6
+false,https://yandex.kz,yandexgames_game_loading_feedback_block_menu_item,false
+false,https://yastatic.net/^0https://kp.ru,_ym37412095:0_reqNum,2
+false,https://yastatic.net/^0https://kp.ru,_ym37412095_lastHit,1715866430851
+false,https://yastatic.net/^0https://kp.ru,_ym37412095_lsid,451351990124
+false,https://yastatic.net/^0https://kp.ru,_ym3:0_reqNum,1
+false,https://yastatic.net/^0https://kp.ru,_ym3_lsid,954390241519
+false,https://yastatic.net/^0https://kp.ru,_ym_retryReqs,{}
+false,https://yastatic.net/^0https://kp.ru,_ym_synced,{}
+false,https://yastatic.net/^0https://kp.ru,_ym_uid,"""1715866415185912785"""
+false,https://yastatic.net/^0https://kp.ru,_ym_wasSynced,"{""time"":1715866415508,""params"":{""sbp"":{""a"":""FoTLhxdF3Y5+VbS3+UyW90yFr4FohZY7Y3CE4z3KKCtdLZfpELiWL7RWJHqbI3F5"",""b"":""RX9zyQDuTYv31LALFIZEhE2sN8b6GwR33OEBJrARA5dTsaFEH/czBj5PWDBS5R7d""},""eu"":0,""hittoken"":""1715866416_4a390f7a30d69ca2a63a6802ebf84e647ce738c265aba43b01b35b592d354fff""},""bkParams"":{}}"
+false,https://yastatic.net/^0https://yandex.kz,_ym37412095:0_reqNum,6
+false,https://yastatic.net/^0https://yandex.kz,_ym37412095_lastHit,1716282403224
+false,https://yastatic.net/^0https://yandex.kz,_ym37412095_lsid,313727002207
+false,https://yastatic.net/^0https://yandex.kz,_ym_retryReqs,{}
+false,https://yastatic.net/^0https://yandex.kz,_ym_synced,{}
+false,https://yastatic.net/^0https://yandex.kz,_ym_uid,"""1715866415185912785"""
+false,https://znanija.com,_ga_cookie,GA1.2.1433799800.1713447987
+false,https://znanija.com,_guest_token_cookie,fw6CTZJJ902HbHj28RbC0GtFbjQpwL2ZQD20ciwUQm8c4RXZfYoxMfsTy4qoJiRkGTC1jXXQzxyuLOCw
+false,https://znanija.com,as/current_blockade_state,false
+false,https://znanija.com,as/current_blockade_state_timestamp,1713448322315
+false,https://znanija.com,awareness-modal/dismissed,true
+false,https://znanija.com,ddSession,XU7l8TAwQsXxK~J5KBzD4IH6QIHrGvHYzdhFIpTkpiRIdez6aL05llXpIOx9zo0z_BG~2QHyBO9y16dCQvGdAZfdAW7mbt8l1z8lja3y8MCta1X7wkFaJWz1i1zJR02i
+false,https://znanija.com,search-recently-visited-with-date/questions,"[{""id"":36054275,""subjectId"":32,""visited"":""2024-04-18T13:46:28.643Z""},{""id"":35736006,""subjectId"":32,""visited"":""2024-04-18T13:49:28.343Z""},{""id"":44103293,""subjectId"":32,""visited"":""2024-04-18T13:52:02.274Z""}]"
